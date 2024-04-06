@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/giftedtechnexus/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/83fb40924978faacdd66a.jpg">
   </a>
 </p>
     
